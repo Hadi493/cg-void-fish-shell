@@ -4,7 +4,7 @@ A fresh, clean, and personalized `fish-shell` prompt
 ![Cyber Green Fish Prompt](./screenshots/void-fish-config.png)
 
 ### Requarements
-- Any Linux distro (I personally use CachyOS)
+- Any Linux distro (I personally use void-linux)
 - Fish shell 
 - Fastfetch
 
@@ -35,7 +35,7 @@ sys-upgrade, full-sys-upgrade
 
 ### ⚠️ Important: Customize Your Aliases
 Please make sure to review the ***[config.fish](./config.fish)*** file and update the aliases according to your Linux distribution.
-Note: Default aliases are pre-configured for Arch-based systems.
+Note: Default aliases are pre-configured for void-linux.
 
 
 ### Customize aliases
